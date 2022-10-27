@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.heading {
+  font-size: 40px;
+  color: #461515;
+}
+.lay-out-container {
+  margin-top: 50px;
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+}
